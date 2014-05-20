@@ -1,4 +1,4 @@
 Paoge
 =====
 
-Proof of concept Monitoring application
+Proof of concept Monitoring application for learning golang
